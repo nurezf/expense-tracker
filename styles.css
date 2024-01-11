@@ -1,0 +1,32 @@
+body {
+    background-image: url(low-poly-grid-haikei.svg);
+   background-size: cover;
+   color: #ffa439;
+   display: flex;
+   justify-content: center;
+}
+.container {
+    width: 75%;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+input {
+    margin-block-end: 1rem;
+}
+
+label {
+    text-transform: capitalize;
+}
+
+#text {
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+.table {
+    margin-top: 3rem;
+}
